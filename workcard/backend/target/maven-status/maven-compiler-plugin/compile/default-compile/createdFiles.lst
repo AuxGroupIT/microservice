@@ -1,7 +1,0 @@
-com\auxgroup\auxplat\App.class
-com\auxgroup\auxplat\workcard\entity\Result.class
-com\auxgroup\auxplat\workcard\rest\WorkCardRest.class
-com\auxgroup\auxplat\workcard\util\PictureConstant.class
-com\auxgroup\auxplat\workcard\service\WorkCardService.class
-com\auxgroup\auxplat\workcard\util\WorkCardUtil.class
-com\auxgroup\auxplat\workcard\util\FileUtil.class
